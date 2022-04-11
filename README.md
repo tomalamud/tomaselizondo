@@ -1,6 +1,8 @@
-### Hi there 👋 I'm Tomas Elizondo, Software developer from Argentina.
+## Hi there 👋 I'm Tomas Elizondo, Software developer from Argentina.
 
-- 🔭 I’m currently working on Córdoba Bitcoin
-- 🌱 I’m currently learning Web3.js Next.js and TypeScript
-- 👯 I’m looking to collaborate on the blockchain ecosystem
-- 📫 How to reach me: https://www.linkedin.com/in/tomaselizondo/
+### Personal mantra: "To learn, grow, and deliver value".
+
+- 🔭 Currently working on the website of [Córdoba Bitcoin](https://cordobabitcoin.com).
+- 🌱 Learning Web3.js Next.js and TypeScript, [here a preview](https://nft-drop-ten.vercel.app/).
+- 👯 I’m looking to collaborate on the blockchain ecosystem.
+- 📫 How to reach me: [LikedIn](https://www.linkedin.com/in/tomaselizondo/).
